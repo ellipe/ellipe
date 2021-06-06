@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning VueJS and Flutter.
 - 🏡 Medellín, Colombia.
-- 🕹 Tech: Javascript, HTML, CSS, GoLang -> NodeJS, React and Vue.
+- 🕹 Tech: Javascript,React, Vue, HTML, CSS, NodeJS.
 * ⚡ Fun Facts:
   * Electronic Engineer 🤖
   * Geek Reader :computer: 
